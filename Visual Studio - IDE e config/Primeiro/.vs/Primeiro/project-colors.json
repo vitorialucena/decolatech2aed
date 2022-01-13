@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01800f0b-5d04-4610-96fe-4979301dc1cc": {
+      "ProjectGuid": "01800f0b-5d04-4610-96fe-4979301dc1cc",
+      "DisplayName": "Primeiro",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

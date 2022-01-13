@@ -1,0 +1,24 @@
+Comandos Básicos do GIT
+
+cd - navega entre repositórios (pastas)
+ex: cd nome_do_repositório
+
+cd .. - volta um nível
+
+dir (windows) / ls (linux-git): lista arquivos dentro de um repositório
+		ls -a : -a é uma flag que faz com que sejam mostrados os arquivos ocultos
+
+pwd: mostra caminho completo até o repositório atual
+
+mkdir - cria um novo repositório
+ex: mkdir nome_do_repositório
+
+rmdir - apaga repositório
+ex: rmdir nome_do_repositório
+
+echo - devolve ao terminal o que foi escrito
+ex: echo hello : hello
+    echo hello > hello.txt : cria um arquivo .txt chamado "hello" com "hello" dentro dele
+
+mv ___.extensão ./___ : move um arquivo de um repositório para outro
+

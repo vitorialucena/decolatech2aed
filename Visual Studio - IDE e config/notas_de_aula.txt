@@ -1,0 +1,27 @@
+\** Gerando código e debugging
+por padrão o nome do projeto e solução são os mesmos
+a solução é onde ficam todos os projetos, integrando todos que forem criados
+dentro dessa solução pode colocar outros projetos
+
+depuração: é colocado um breakpoint no código
+o breakpoint é colocado clicando na linha e apertando F9
+roda o programa em F5
+e ele para de rodar na linha do breakpoint
+se apertar F5 vai rodar o final do código
+com F10 roda linha por linha
+
+*em C# precisa declarar cada variável
+*é preciso usar ; no final de cada linha
+
+Console.WriteLine("") escreve na tela
+
+usando Shift + F9 dá pra procurar variáveis, expressões e ver seu tipo e valor
+
+\** Criar Testes
+vai no método a ser testado - botão direito - Criar Testes de Unidade
+na mesma solução é criado um novo projeto com o arquivo de teste
+cada método deve ser configurado com o padrão AAA:
+Arrange: organizar as variáveis e definir valores a serem usados no teste
+Act: invoca o método com os valores estabelecidos antes
+Assert: verificar se é "verdadeiro"
+menu Teste - Executar Todos os Testes
